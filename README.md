@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Bardia
-- 👀 I’m interested in Data Science and Deep Learning 
-- 🌱 I’m currently studying Master of Data Science and Engineering at Politecnico di Torino
+- 👀 I’m an AI/ML Engineer, I have experience in CV , NLP and Generative AI
+- 🌱 I’m graduated with a master degree in Data Science and Engineering at Politecnico di Torino
 - 📫 how to reach me : Bardiakarimi7@gmail.com - https://www.linkedin.com/in/bardia-karimizandi/
 
 <!---
